@@ -13,7 +13,6 @@
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/ref/Dashboard.Tests.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Dashboard.Tests.pdb
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
-/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Microsoft.OpenApi.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -23,9 +22,6 @@
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/testhost.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
-/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/xunit.abstractions.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/xunit.assert.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/xunit.core.dll
@@ -107,3 +103,6 @@
 /home/snow/dashboardmicroservices/Dashboard.Tests/obj/Debug/net6.0/ref/Dashboard.Tests.dll
 /home/snow/dashboardmicroservices/Dashboard.Tests/obj/Debug/net6.0/Dashboard.Tests.pdb
 /home/snow/dashboardmicroservices/Dashboard.Tests/obj/Debug/net6.0/Dashboard.Tests.genruntimeconfig.cache
+/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Dashboard.staticwebassets.runtime.json
+/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Castle.Core.dll
+/home/snow/dashboardmicroservices/Dashboard.Tests/bin/Debug/net6.0/Moq.dll
